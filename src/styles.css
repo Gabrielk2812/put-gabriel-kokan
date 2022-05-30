@@ -1,0 +1,135 @@
+body {
+  background-color: #94a89a;
+  padding: 0;
+  margin: 0;
+}
+h1 {
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #797d81;
+}
+.image-glavna {
+  width: 100%;
+}
+.block-drzac {
+  display: inline-block;
+  top: 30%;
+  padding-left: 325px;
+  padding-right: 275px;
+  position: absolute;
+  top: 900px;
+}
+.block-fly {
+  background-color: whitesmoke;
+  display: inline-block;
+  width: 350px;
+  height: 375px;
+  padding-top: 100px;
+  margin-left: 30px;
+  border-radius: 15px;
+  box-shadow: 5px 10px #888888;
+}
+.block-incontent {
+  padding: 15px;
+}
+.prostor1 {
+  margin: 0;
+  padding-bottom: 150px;
+}
+.slika-blok1 {
+  width: 300px;
+  margin-left: 7px;
+  margin-top: 10px;
+  border: 1px solid black;
+}
+.slika-blok2 {
+  width: 300px;
+  margin-left: 7px;
+  margin-top: 10px;
+  border: 1px solid black;
+}
+.slika-blok3 {
+  width: 300px;
+  margin-left: 7px;
+  margin-top: 10px;
+  border: 1px solid black;
+}
+.para-blok {
+  padding-left: 30px;
+  padding-top: 15px;
+  font-size: 21px;
+  width: 95%;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.karta {
+  padding-top: 10px;
+  width: 50%;
+}
+hr {
+  padding-bottom: 0;
+  padding-top: 5px;
+  margin: 0;
+}
+table,
+td,
+th {
+  border: 2px solid black;
+  padding: 15px;
+  background-color: white;
+}
+th {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+}
+td {
+  font-size: 20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.daPolje {
+  background-color: #94a89a;
+}
+.slPolje {
+  background-color: #efb0a1;
+}
+.grPolje {
+  background-color: #797d81;
+}
+.Footer {
+  background-color: #efb0a1;
+  font-size: 25px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+#ispis {
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 32px;
+}
+.hotel1 {
+  width: 300px;
+  height: 450px;
+  background-color: white;
+  padding-left: 20px;
+  display: inline-block;
+  margin-left: 20px;
+}
+.hotelPlace {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 30px;
+  padding-left: 30px;
+  padding-top: 30px;
+  margin-left: 20%;
+}
+.slHotel {
+  width: 250px;
+  height: 150px;
+  padding-left: 15px;
+  padding-top: 10px;
+}
+.galerijasl {
+  width: 1500px;
+}
